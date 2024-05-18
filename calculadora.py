@@ -5,7 +5,7 @@ cor1 = "#3b3b3b"  # preta
 cor2 = "#feffff"   # branca
 cor3 = "#38576b"   # Azul escuro
 cor4 = "#ECEFF1"   # Cinza
-cor5 = "#FFAB40"   # Laranka
+cor5 = "#FFAB40"   # Laranja
 cor6 = "#3a403f"
 janela = Tk()
 janela.title("Calculadora")
